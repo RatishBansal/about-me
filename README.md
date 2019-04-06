@@ -31,4 +31,4 @@
 
 ### Honors-Awards
 - SPOT Award, Samsung | Successful Commercialization of service in Samsung Galaxy S6
-- SPOT Award, Adobe | Successful POC and bring customer onboard
+- SPOT Award, Adobe | Successful POC and bringing customer onboard
